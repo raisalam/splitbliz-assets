@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://splitbliz.web.app/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://splitbliz.web.app/features</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://splitbliz.web.app/pricing</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://splitbliz.web.app/about</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://splitbliz.web.app/contact</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://splitbliz.web.app/terms</loc>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://splitbliz.web.app/privacy</loc>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://splitbliz.web.app/blog/how-to-split-expenses-with-friends</loc>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://splitbliz.web.app/assets/banner_light_new-HpK0q1DO.webp</image:loc>
+      <image:caption>How to Split Expenses with Friends Without Awkwardness</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://splitbliz.web.app/blog/budgeting-for-group-trips</loc>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://splitbliz.web.app/assets/trip_planning-BMrPmtMk.webp</image:loc>
+      <image:caption>Budgeting for Group Trips: Keep Everyone Happy</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://splitbliz.web.app/blog/roommate-expense-sharing-made-simple</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://splitbliz.web.app/blog/digital-tools-for-couples-finances</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://splitbliz.web.app/blog/smart-tips-for-splitting-dining-bills</loc>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
